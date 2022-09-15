@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.header-logo {
+  height: 40px;
+}
+
+.green-text {
+  color: green;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.preview-image {
+  height: 75px;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
+
+.dropzone {
+  border: 1px dotted lightgray;
+  padding-top: 20px;
+  height: 100px;
+  cursor: pointer;
+}
+
+.rcv-card-sm .rcv-product-image-container,
+.rcv-card-sm .rcv-product-image-container-custom {
+  padding-right: 25px;
+}
+
+.sell-header {
+  margin-top: 20px;
+}
+
+.sell-area {
+  padding: 20px;
+  min-height: 400px;
+}
+
+.about-page div {
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.store-heading {
+  font-family: "cursive", "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-bottom: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+.ant-layout-header {
+  background: white !important;
+}
